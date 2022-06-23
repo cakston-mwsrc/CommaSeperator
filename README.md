@@ -1,7 +1,7 @@
 # packetspliter
 
 A new Flutter project.
-
+in this project i have created app for string seperator for iOS, Android, web, macOS, windows
 ## Getting Started
 
 This project is a starting point for a Flutter application.
